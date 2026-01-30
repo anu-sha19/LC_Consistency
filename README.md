@@ -1,10 +1,4 @@
-# 🎯DSA Study Plan
-
-**Start Date:** January 30, 2025  
-**End Date:** May 5, 2025  
-**Total Problems:** 280+  
-
----
+# 🎯DSA
 
 ## 📊 Progress Tracker
 
