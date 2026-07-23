@@ -848,18 +848,3 @@ Problem 2: [Link]
 
 ---
 
-**Start Date:** January 30, 2025  
-**Target Completion:** May 5, 2025  
-**Your Future:** Senior Software Engineer 🚀
-
-*Remember: Every expert was once a beginner. Stay consistent, stay focused, and you WILL succeed!*
-
----
-
-## 🔥 Motivation
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-You've got this! 280+ problems might seem overwhelming now, but in 14 weeks, you'll look back amazed at how far you've come. Trust the process, stay consistent, and remember - every problem you solve makes you a better engineer.
-
-**Pin this repo. Star it. Make it your homepage. This is your roadmap to success.** 💪
